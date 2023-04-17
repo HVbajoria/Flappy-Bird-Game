@@ -54,3 +54,5 @@ To bring back the golden memories of our lost childhood, I have created this gam
 
 
 ## Demo Video :video_camera: : https://youtu.be/r6gXiRuv5Kk
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
