@@ -4,6 +4,8 @@
 *Flappy Bird* was a simple, yet notoriously difficult mobile game that became popular in 2013. 
 The game's design was reminiscent of the 8-bit video games of the 1980s, and its challenging gameplay and addictive nature made it a sensation, especially among young gamers. For many of us, playing Flappy Bird was a fun and memorable part of our childhood, as we tried to beat our friends' high scores and push ourselves to new heights of gaming prowess.
 
+To bring back the golden memories of our lost childhood, I have created this game using PyGame. Hope you enjoy it 💝
+
 ## The rules of Flappy Bird Game are simple: :scroll:
 
 1. The objective of the game is to navigate a small bird through a series of pipes without touching them.
@@ -51,4 +53,4 @@ The game's design was reminiscent of the 8-bit video games of the 1980s, and its
 6. Use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
 
-## Demo Video :video_camera: :
+## Demo Video :video_camera: : https://youtu.be/r6gXiRuv5Kk
