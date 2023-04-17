@@ -1,4 +1,4 @@
-# Flappy Bird Game :bird:
+# Flappy Bird Is Back :bird:
 ===============
 
 *Flappy Bird* was a simple, yet notoriously difficult mobile game that became popular in 2013. 
